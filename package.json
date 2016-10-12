@@ -1,0 +1,26 @@
+{
+  "name": "true-looking",
+  "version": "0.0.0",
+  "description": "Helps validate if a property is either 'true' or true",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/true-looking.git"
+  },
+  "keywords": [
+    "true",
+    "looking"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/true-looking/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/true-looking#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}

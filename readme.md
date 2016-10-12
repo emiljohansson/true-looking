@@ -5,16 +5,16 @@
 ## Usage
 
 ```js
-const isFalse = require('true-looking')
-isFalse('true')
+const isTrue = require('true-looking')
+isTrue('true')
 // => true
-isFalse(undefined)
+isTrue(undefined)
 // => false
 ```
 
 ## API
 
-### isFalse(value)
+### isTrue(value)
 
 Validates if `value` is either `'true'` or `true`.
 
